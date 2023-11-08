@@ -1,11 +1,10 @@
 # Projeto_uni
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto]([https://picsum.photos/850/280](https://cointimes.com.br/wp-content/uploads/2021/11/image-12.jpg))
 
 # Sobre o Projeto
-
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Em breve os prototipos
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -25,25 +24,14 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
-
+Arquivo sendo preparado [CONTRIBUTING.md](CONTRIBUTING.md) 
 # Autores
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
@@ -54,4 +42,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+
