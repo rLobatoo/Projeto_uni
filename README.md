@@ -1,7 +1,10 @@
-# Projeto: SearchTraveler
+# Projeto: SearchTraveler ![travel-search-optimism(1)](https://github.com/rLobatoo/Projeto_uni/assets/150205251/d57bce4e-f2ef-4d8e-a0a4-fec0f25c0cbc)
 
 
-![Capa do Projeto]([https://ik.imgkit.net/3vlqs5axxjf/PCWW/uploadedImages/Articles/News/2021/August/travel-search-optimism(1).jpeg?tr=w-800%2Ch-400%2Cfo-auto))
+
+<div align="center">
+<img src="![travel-search-optimism(1)](https://github.com/rLobatoo/Projeto_uni/assets/150205251/d57bce4e-f2ef-4d8e-a0a4-fec0f25c0cbc)" width="700px" />
+</div>
 
 # Sobre o Projeto
 <h4 align="center"> 
