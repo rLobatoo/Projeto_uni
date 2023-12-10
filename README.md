@@ -28,6 +28,13 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 
 # Requisitos Funcionais 
 
+- [x] **Cadastrar Usuário**
+- [x] **Fazer Login**
+- [x] **Editar perfil**
+- [x] **Historico de viagens**
+- [ ] Agenda de viagens
+- [ ] Recomendações baseadas no perfil do úsuario
+- [ ] Chat de atendimento
 
 
 # Tecnologias Usadas
