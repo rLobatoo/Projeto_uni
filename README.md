@@ -18,6 +18,7 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
+* [Personas](#personas)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
@@ -25,7 +26,7 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
-
+# Personas
 # Requisitos Funcionais 
 
 - [x] **Cadastrar Usuário**
