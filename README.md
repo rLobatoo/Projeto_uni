@@ -1,4 +1,4 @@
-# Projeto_uni
+# Projeto: SearchTraveler
 
 
 [Capa do Projeto a ser adicionada]
@@ -28,6 +28,10 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 
 
 # Tecnologias Usadas
+JavaScript (com frameworks como React, Angular, ou Vue.js): Para criar interfaces interativas e responsivas.
+HTML/CSS: Para estruturação e estilização da interface.
+Python: Utilizado em frameworks como Django ou Flask para o desenvolvimento do lado do servidor, manipulação de dados e lógica de negócios.
+MySQL: Para armazenar e gerenciar dados como informações do usuário, reservas, avaliações etc.
 
 
 # Contribuição
