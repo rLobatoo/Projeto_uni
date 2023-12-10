@@ -5,8 +5,7 @@
 
 # Sobre o Projeto
 <h4 align="center"> 
-
-	O SearchTraveler visa simplificar a experiência de planejamento de viagens para os usuários, oferecendo uma ampla gama de funcionalidades e informações para tornar as viagens mais acessíveis, econômicas e agradáveis.
+O SearchTraveler visa simplificar a experiência de planejamento de viagens para os usuários, oferecendo uma ampla gama de funcionalidades e informações para tornar as viagens mais acessíveis, econômicas e agradáveis.
 </h4>
 
 Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viajantes, simplificando a pesquisa de destinos, oferecendo informações confiáveis por meio de avaliações de outros usuários, encontrando as melhores ofertas de voos e hospedagem, personalizando itinerários, facilitando a orientação durante a viagem e permitindo o acompanhamento de preços para garantir economia. Ele transforma a experiência de viagem, tornando-a mais conveniente, informada e adaptada às preferências individuais.
