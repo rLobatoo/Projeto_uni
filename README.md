@@ -7,7 +7,7 @@
 Em breve os prototipos
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	O SearchTraveler visa simplificar a experiência de planejamento de viagens para os usuários, oferecendo uma ampla gama de funcionalidades e informações para tornar as viagens mais acessíveis, econômicas e agradáveis.
 </h4>
 
 # Índice/Sumário
