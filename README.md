@@ -19,6 +19,7 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Personas](#personas)
+* [Apresentação](#apresentação)
 * [Protótipos](#prototipos)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
@@ -27,6 +28,8 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
+# Apresentação
+[Vídeo](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
 # Personas
 Ferdinand, 29 anos, aventureiro e estrangeiro, decide finalmente inciar seu projeto e está em busca de uma plataforma de viagem que te ajude com a organização de seu tão sonhado projeto: Viajar para o brasil e conhecer os 10 estados mais populares do país e necessita também de um guia virtual que lhe mostre os principais atrativos dos locais com as rotas mais seguras para se chegar, as comidas mais pedidas pelos turistas no local, as melhores hotelarias para um turista e uma media de gastos que terá no estado atual, tudo isso baseado no perfil dele.
 
