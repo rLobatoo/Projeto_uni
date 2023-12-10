@@ -28,9 +28,9 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 
 
 # Tecnologias Usadas
-JavaScript (com frameworks como React, Angular, ou Vue.js): Para criar interfaces interativas e responsivas.
-HTML/CSS: Para estruturação e estilização da interface.
-Python: Utilizado em frameworks como Django ou Flask para o desenvolvimento do lado do servidor, manipulação de dados e lógica de negócios.
+JavaScript (com frameworks como React, Angular, ou Vue.js): Para criar interfaces interativas e responsivas.<br/>
+HTML/CSS: Para estruturação e estilização da interface.<br/>
+Python: Utilizado em frameworks como Django ou Flask para o desenvolvimento do lado do servidor, manipulação de dados e lógica de negócios.<br/>
 MySQL: Para armazenar e gerenciar dados como informações do usuário, reservas, avaliações etc.
 
 
