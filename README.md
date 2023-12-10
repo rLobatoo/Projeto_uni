@@ -18,8 +18,8 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
-* [Personas](#personas)
 * [Apresentação](#apresentação)
+* [Personas](#personas)
 * [Protótipos](#prototipos)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
@@ -32,6 +32,11 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 [Vídeo](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
 # Personas
 Ferdinand, 29 anos, aventureiro e estrangeiro, decide finalmente inciar seu projeto e está em busca de uma plataforma de viagem que te ajude com a organização de seu tão sonhado projeto: Viajar para o brasil e conhecer os 10 estados mais populares do país e necessita também de um guia virtual que lhe mostre os principais atrativos dos locais com as rotas mais seguras para se chegar, as comidas mais pedidas pelos turistas no local, as melhores hotelarias para um turista e uma media de gastos que terá no estado atual, tudo isso baseado no perfil dele.
+O SearchTraveler, um aplicativo que permite a pesquisa personalizada de viagem baseada no perfil do viajante, trazendo para ele dados gerais e especificos de cada local que ele deseja visitar e criando um pacote de serviços escolhidos para o viajante, operando em cooperação com os sites referencias de cada serviço proposto pelo viajante.
+O SearchTraveler, possibilita a entrada de login via Google, Office365, assim como a criação do usuario na propria plataforma.
+Ao finalizar o cadastro, é iniciada uma rápida pesquisa de afinidade para parametrizar as escolhas do usuario com o estilo de viagem que ele se interesse mais.
+O site permite uma visualização prevía dos pacotes de viagens de maior interesse do seu perfil de viagem no explorador, assim como a visualização de perfis compativeis com o seu e as viagens compartilhadas pelos usuarios com pacotes personalzados que costumam interessar a pessoas com perfis parecidos. 
+Digamos que o Ferdinand conseguiu a tão sonhadas férias no periodo de 2024, na temporada favorita dele para viagens que é verão no Brasil. Ele já finalizou seu cadastro no SearchTraveler e finalmente entra na busca do melhor pacote de viagens personalizadas pra ele. Ele seleciona o periodo de tempo que pretende fazer essa viagem, o site reage com a média de locais que ele pode conseguir viajar com a quantidade de tempo que ele tem para vajar e o perfil de viagem dele, após isso ele seleciona uma ordem de prioridade dos locais que deseja conhecer, e através da parametrização do perfil dele, é gerado um pacote com as melhores opções de vôos, hospedagens e locais que ele gostaria de conhecer dos estados que melhor irão atender o fluxo da quantidade de dias que ele tem disponivel para viajar.
 
 # Protótipos
 [Clique aqui](https://jorranessilvalins899566.invisionapp.com/freehand/pUbMhzNO9)
