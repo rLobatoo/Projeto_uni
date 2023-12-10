@@ -1,7 +1,7 @@
 # Projeto: SearchTraveler
 
 
-[Capa do Projeto a ser adicionada]
+![Capa do Projeto]([https://ik.imgkit.net/3vlqs5axxjf/PCWW/uploadedImages/Articles/News/2021/August/travel-search-optimism(1).jpeg?tr=w-800%2Ch-400%2Cfo-auto))
 
 # Sobre o Projeto
 <h4 align="center"> 
