@@ -39,7 +39,7 @@ O site permite uma visualização prevía dos pacotes de viagens de maior intere
 Digamos que o Ferdinand conseguiu a tão sonhadas férias no periodo de 2024, na temporada favorita dele para viagens que é verão no Brasil. Ele já finalizou seu cadastro no SearchTraveler e finalmente entra na busca do melhor pacote de viagens personalizadas pra ele. Ele seleciona o periodo de tempo que pretende fazer essa viagem, o site reage com a média de locais que ele pode conseguir viajar com a quantidade de tempo que ele tem para vajar e o perfil de viagem dele, após isso ele seleciona uma ordem de prioridade dos locais que deseja conhecer, e através da parametrização do perfil dele, é gerado um pacote com as melhores opções de vôos, hospedagens e locais que ele gostaria de conhecer dos estados que melhor irão atender o fluxo da quantidade de dias que ele tem disponivel para viajar.
 
 # Protótipos
-[Clique aqui](https://jorranessilvalins899566.invisionapp.com/freehand/pUbMhzNO9)
+[Lo-Fi](https://jorranessilvalins899566.invisionapp.com/freehand/pUbMhzNO9)
 # Requisitos Funcionais 
 
 - [x] **Cadastrar Usuário**
@@ -65,7 +65,9 @@ Implementação do app
 
 Arquivo sendo preparado [CONTRIBUTING.md](CONTRIBUTING.md) 
 # Autores
-
+Jorranes Silva Lins - 1272121246
+Luís Felipe da Silva Figueiredo - 1292222036
+Ruan Lobato dos Santos - 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
 # Licença
