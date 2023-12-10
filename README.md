@@ -28,11 +28,14 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 
 
 # Tecnologias Usadas
-JavaScript (com frameworks como React, Angular, ou Vue.js): Para criar interfaces interativas e responsivas.<br/>
-HTML/CSS: Para estruturação e estilização da interface.<br/>
-Python: Utilizado em frameworks como Django ou Flask para o desenvolvimento do lado do servidor, manipulação de dados e lógica de negócios.<br/>
-MySQL: Para armazenar e gerenciar dados como informações do usuário, reservas, avaliações etc.
+Protipação
+- [Invision](https://www.invisionapp.com)
 
+Implementação do app
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 # Contribuição
 
