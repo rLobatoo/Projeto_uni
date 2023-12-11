@@ -62,7 +62,7 @@ Implementação do app
 - [TypeScript](https://www.typescriptlang.org/)
 
 # Avaliação
-Leia o arquivo [Avaliação.md](Avaliação.md) para saber detalhes sobre a avaliação heurística de Nielsen
+Leia o arquivo [Avaliação.md](Avaliação) para saber detalhes sobre a avaliação heurística de Nielsen
 
 Arquivo sendo preparado [CONTRIBUTING.md](CONTRIBUTING.md) 
 # Autores
