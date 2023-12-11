@@ -29,7 +29,7 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 * [Agradecimentos](#agradecimentos)
 
 # Apresentação
-[Vídeo](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) 
+[Vídeo](https://youtu.be/wq2Qvg5CI6Q) 
 # Personas/cenários
 Ferdinand, 29 anos, aventureiro e estrangeiro, decide finalmente inciar seu projeto e está em busca de uma plataforma de viagem que te ajude com a organização de seu tão sonhado projeto: Viajar para o brasil e conhecer os 10 estados mais populares do país e necessita também de um guia virtual que lhe mostre os principais atrativos dos locais com as rotas mais seguras para se chegar, as comidas mais pedidas pelos turistas no local, as melhores hotelarias para um turista e uma media de gastos que terá no estado atual, tudo isso baseado no perfil dele.
 O SearchTraveler, um aplicativo que permite a pesquisa personalizada de viagem baseada no perfil do viajante, trazendo para ele dados gerais e especificos de cada local que ele deseja visitar e criando um pacote de serviços escolhidos para o viajante, operando em cooperação com os sites referencias de cada serviço proposto pelo viajante.
