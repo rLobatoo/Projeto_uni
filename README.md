@@ -68,7 +68,7 @@ Leia o arquivo [Avaliação.md](Avaliação) para saber detalhes sobre a avalia�
 Jorranes Silva Lins - 1272121246 <br />
 Luís Felipe da Silva Figueiredo - 1292222036 <br />
 Ruan Lobato dos Santos - 1272327224 <br />
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+
 
 # Licença
 
