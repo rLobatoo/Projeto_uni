@@ -23,7 +23,7 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 * [Protótipos](#prototipos)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
+* [Avaliação](#avaliação)
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
@@ -64,7 +64,6 @@ Implementação do app
 # Avaliação
 Leia o arquivo [Avaliação.md](Avaliação) para saber detalhes sobre a avaliação heurística de Nielsen
 
-Arquivo sendo preparado [CONTRIBUTING.md](CONTRIBUTING.md) 
 # Autores
 Jorranes Silva Lins - 1272121246 <br />
 Luís Felipe da Silva Figueiredo - 1292222036 <br />
