@@ -61,7 +61,8 @@ Implementação do app
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-# Contribuição
+# Avaliação
+Leia o arquivo [Avaliação.md](Avaliação.md) para saber detalhes sobre a avaliação heurística de Nielsen
 
 Arquivo sendo preparado [CONTRIBUTING.md](CONTRIBUTING.md) 
 # Autores
