@@ -19,7 +19,7 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Apresentação](#apresentação)
-* [Personas/cenários](#Personas/cenários)
+* [Personas/cenários](#personas/cenários)
 * [Protótipos](#prototipos)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
