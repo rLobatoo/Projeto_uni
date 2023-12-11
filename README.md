@@ -25,7 +25,6 @@ Um aplicativo de busca de viagens resolve problemas comuns enfrentados por viaja
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Avaliação](#avaliação)
 * [Autores](#autores)
-* [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 
 # Apresentação
@@ -70,10 +69,6 @@ Luís Felipe da Silva Figueiredo - 1292222036 <br />
 Ruan Lobato dos Santos - 1272327224 <br />
 
 
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
 # Agradecimentos
-
+Agradecimentos ao prof. Diego Augusto!
 
